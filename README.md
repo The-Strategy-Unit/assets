@@ -1,4 +1,9 @@
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+
 # Assets
+
+>[!NOTE]
+>Development has ceased in this closed, archived repository. Logos can be found in the [su_brand repo](https://github.com/The-Strategy-Unit/su-brand/tree/main/logos) and development will continue there. 
 
 Strategy Unit Assets, such as logos to link to for consistency.
 
